@@ -64,19 +64,6 @@
 
 <br />
 
-<!-- Featured Projects Section -->
-<div align="center">
-  <h2>🌟 ─── <i>Featured Projects</i> ─── 🌟</h2>
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :---: |
-| ☕ **Coffee UMKM Website** | Customer ordering & owner management interface | `PHP` `MySQL` |
-| 🍜 **Restaurant Management** | Web-based digital ordering system | `Laravel` `MySQL` |
-| 🔎 **Mystery / CTF Game** | Interactive puzzle & web security learning concept | `Web` `Logic` |
-
-</div>
-
-<br />
 
 <!-- GitHub Analytics Section (Theme Custom Playful Yellow Warm) -->
 <div align="center">
