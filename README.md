@@ -1,107 +1,106 @@
 <div align="center">
 
-  <!-- Mascot GIF / Animasi Bebek Playful -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJ2eDFic3Y5eXRkZnd4Y3kya3B5czBxbGF4NGlscms2Y3R6dzUzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kAC1hN3Z7Rsz6N2yUv/giphy.gif" width="120px" alt="Cute Duck Walk GIF" />
-
-  <!-- Header Banner Playful Soft Yellow -->
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=fff176&height=160&section=header&text=Panisa%20🐥&fontSize=52&fontColor=4a4a4a&animation=twinkle" alt="Header Banner" />
-  </p>
-
-  <!-- Animated Typing Subtitle dengan Font Playful -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=17&duration=2500&pause=800&color=F39C12&center=true&vCenter=true&width=500&lines=🐤+Informatics+Management+Student!;🌟+Aspiring+Full-Stack+Developer;🧋+Turning+cute+ideas+into+real+projects!" alt="Typing SVG" />
-
-  <br /><br />
-
-  <!-- Social Media & Contact Badges (For-The-Badge Style with Hover Aesthetic) -->
-  <a href="https://instagram.com/saavior_">
-    <img src="https://img.shields.io/badge/Instagram-FFD54F?style=for-the-badge&logo=instagram&logoColor=333333" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@jouuniverse">
-    <img src="https://img.shields.io/badge/YouTube-FFE082?style=for-the-badge&logo=youtube&logoColor=333333" alt="YouTube" />
-  </a>
-
-</div>
-
-<br />
-
-<!-- Speech Bubble Style Quote & About Me -->
-<div align="center">
-  <h2>🐣 ─── <i>About Me</i> ─── 🐣</h2>
-
-  <p align="center">
-    <sub><b>💬 DUCK SAYS:</b></sub><br />
-    <i>"Quack quack! Still learning, still building, and creating things with love! 💛"</i>
-  </p>
-</div>
-
-* 🎓 **Education:** D3 Informatics Management Student
-* 💻 **Focus:** Web Development & Software Architecture
-* 🎨 **Vibe:** Love designing clean, functional, and pleasant user interfaces
-* 📍 **Location:** Indonesia 🇮🇩
-
-<br />
-
-<!-- Tech Stack Section dengan Badge Kuning Pop -->
-<div align="center">
-  <h2>✨ ─── <i>Tech & Tools</i> ─── ✨</h2>
-
-  <p><b>Backend & Database</b></p>
-  <img src="https://img.shields.io/badge/PHP-FFE082?style=popout-square&logo=php&logoColor=333333" />
-  <img src="https://img.shields.io/badge/JavaScript-FFD54F?style=popout-square&logo=javascript&logoColor=333333" />
-  <img src="https://img.shields.io/badge/Laravel-FFCA28?style=popout-square&logo=laravel&logoColor=333333" />
-  <img src="https://img.shields.io/badge/MySQL-FFF59D?style=popout-square&logo=mysql&logoColor=333333" />
-
-  <br /><br />
-
-  <p><b>Design & Creative Tools</b></p>
-  <img src="https://img.shields.io/badge/Figma-FFD54F?style=popout-square&logo=figma&logoColor=333333" />
-  <img src="https://img.shields.io/badge/Illustrator-FFE082?style=popout-square&logo=adobeillustrator&logoColor=333333" />
-  <img src="https://img.shields.io/badge/Git-FFCA28?style=popout-square&logo=git&logoColor=333333" />
-  <img src="https://img.shields.io/badge/VS_Code-FFF59D?style=popout-square&logo=visualstudiocode&logoColor=333333" />
-</div>
-
-<br />
-
-<!-- Featured Projects Section -->
-<div align="center">
-  <h2>🌟 ─── <i>Featured Projects</i> ─── 🌟</h2>
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :---: |
-| ☕ **Coffee UMKM Website** | Customer ordering & owner management interface | `PHP` `MySQL` |
-| 🍜 **Restaurant Management** | Web-based digital ordering system | `Laravel` `MySQL` |
-| 🔎 **Mystery / CTF Game** | Interactive puzzle & web security learning concept | `Web` `Logic` |
-
-</div>
-
-<br />
-
-<!-- GitHub Analytics Section (Theme Custom Playful Yellow Warm) -->
-<div align="center">
-  <h2>🐥 ─── <i>GitHub Stats</i> ─── 🐥</h2>
+  <!-- 1. Playful Welcome Banner dengan Animated Moving Background (Waving + Dynamic Text) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff176,100:ffd54f&height=220&section=header&text=✨%20WELCOME%20TO%20MY%20SPACE!%20✨&fontSize=38&fontColor=333333&animation=twinkle&desc=Panisa%20%7C%20Informatics%20Management%20Student%20🐥&descSize=18&descAlignY=70&descAlign=50" width="100%" alt="Header Banner" />
 
   <br />
 
-  <!-- Stats Cards & Top Languages -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=isaaidthat&show_icons=true&hide_border=true&title_color=D35400&icon_color=F39C12&text_color=2C3E50&bg_color=FFFDE7" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaaidthat&layout=compact&hide_border=true&title_color=D35400&text_color=2C3E50&bg_color=FFFDE7" />
+  <!-- 2. Interactive Animated Typing Greeting -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=20&duration=2000&pause=1000&color=E67E22&center=true&vCenter=true&width=600&lines=👋+Hi+there!+Welcome+to+my+ducky+corner!;🐥+Quack!+Let's+build+cute+%26+useful+stuff!;💻+Learning+Web+Dev+%26+Software+Architecture!;✨+Scroll+down+to+explore+my+projects!" alt="Typing Greeting" />
+  </a>
+
+  <br /><br />
+
+  <!-- 3. Floating Style Social Buttons -->
+  <a href="https://instagram.com/saavior_">
+    <img src="https://img.shields.io/badge/💬_Instagram-FFD54F?style=for-the-badge&logo=instagram&logoColor=333333" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@jouuniverse">
+    <img src="https://img.shields.io/badge/🎥_YouTube-FFE082?style=for-the-badge&logo=youtube&logoColor=333333" alt="YouTube" />
+  </a>
+
+</div>
+
+<br /><br />
+
+<!-- 4. Playful Grid Layout: About Me & Quick Facts (Side by Side Feel) -->
+<table border="0" align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🐣 <i>About Panisa</i> 🐣</h3>
+      <p align="center">
+        <i>"Quack quack! Still learning, still building, and creating things with love! 💛"</i>
+      </p>
+      <ul>
+        <li>🎓 <b>Education:</b> D3 Informatics Management Student</li>
+        <li>💻 <b>Focus:</b> Web Development & Software Architecture</li>
+        <li>🎨 <b>Vibe:</b> Love designing clean, functional, & pleasant UIs</li>
+        <li>📍 <b>Location:</b> Indonesia 🇮🇩</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🌟 <i>Featured Projects</i> 🌟</h3>
+      <p>☕ <b>Coffee UMKM Website</b><br /><sub>Customer ordering & owner management interface (`PHP`, `MySQL`)</sub></p>
+      <p>🍜 <b>Restaurant Management</b><br /><sub>Web-based digital ordering system (`Laravel`, `MySQL`)</sub></p>
+      <p>🔎 <b>Mystery / CTF Game</b><br /><sub>Interactive puzzle & web security learning concept (`Web`, `Logic`)</sub></p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- 5. Tech & Tools dengan Animated Waving Header Background -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFF59D&height=40&text=🛠️%20TECH%20%26%20CREATIVE%20TOOLS%20🛠️&fontSize=16&fontColor=333333" width="100%" alt="Tech Section Header" />
+  
+  <br /><br />
+
+  <p><b>Backend, Language & Database</b></p>
+  <img src="https://img.shields.io/badge/PHP-FFE082?style=for-the-badge&logo=php&logoColor=333333" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD54F?style=for-the-badge&logo=javascript&logoColor=333333" />
+  <img src="https://img.shields.io/badge/Laravel-FFCA28?style=for-the-badge&logo=laravel&logoColor=333333" />
+  <img src="https://img.shields.io/badge/MySQL-FFF59D?style=for-the-badge&logo=mysql&logoColor=333333" />
+
+  <br /><br />
+
+  <p><b>Design & Workflow</b></p>
+  <img src="https://img.shields.io/badge/Figma-FFD54F?style=for-the-badge&logo=figma&logoColor=333333" />
+  <img src="https://img.shields.io/badge/Illustrator-FFE082?style=for-the-badge&logo=adobeillustrator&logoColor=333333" />
+  <img src="https://img.shields.io/badge/Git-FFCA28?style=for-the-badge&logo=git&logoColor=333333" />
+  <img src="https://img.shields.io/badge/VS_Code-FFF59D?style=for-the-badge&logo=visualstudiocode&logoColor=333333" />
+</div>
+
+<br /><br />
+
+<!-- 6. GitHub Analytics Section dengan Dynamic Animated Cards -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFF59D&height=40&text=📊%20GITHUB%20STATS%20%26%20ACTIVITY%20📊&fontSize=16&fontColor=333333" width="100%" alt="Stats Section Header" />
+
+  <br /><br />
+
+  <!-- GitHub Stats & Top Languages dalam 1 Baris Layout -->
+  <a href="https://github.com/isaaidthat">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=isaaidthat&show_icons=true&hide_border=true&title_color=D35400&icon_color=F39C12&text_color=2C3E50&bg_color=FFFDE7" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/isaaidthat">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaaidthat&layout=compact&hide_border=true&title_color=D35400&text_color=2C3E50&bg_color=FFFDE7" alt="Top Languages" />
+  </a>
 
   <br /><br />
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaaidthat&hide_border=true&background=FFFDE7&ring=F39C12&fire=E67E22&currStreakLabel=D35400&currStreak=D35400&sideLabels=2C3E50&dates=2C3E50" />
-
+  <a href="https://github.com/isaaidthat">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaaidthat&hide_border=true&background=FFFDE7&ring=F39C12&fire=E67E22&currStreakLabel=D35400&currStreak=D35400&sideLabels=2C3E50&dates=2C3E50" alt="GitHub Streak" />
+  </a>
 </div>
 
-<br />
+<br /><br />
 
-<!-- Footer Section dengan Maskot Animasi Garis Divider & Bebek Berjalan -->
+<!-- 7. Footer Banner Bergerak (Animated Waving Footer) -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-  <br /><br />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTYyeGptZms1NGJ2Nm9vdnBzNXZiandzcDgxMXZmcnhhZnd5eTZtOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/D13H4iM2E74IydM4Lh/giphy.gif" width="60px" alt="Little Duck Walking" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd54f,100:fff176&height=120&section=footer&animation=twinkle" width="100%" alt="Footer Banner" />
   <br />
   <sub>✨ Designed with love, boba & duck power by Panisa 🐥 ✨</sub>
 </div>
