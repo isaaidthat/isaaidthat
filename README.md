@@ -1,23 +1,76 @@
-<h1 align="center">Hi 👋, I'm Panisa</h1>
-<h3 align="center">Learning web development, exploring new technologies, and turning ideas into projects.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isaaidthat&label=Profile%20views&color=0e75b6&style=flat" alt="isaaidthat" /> </p>
+# hii, i'm Panisa ♡
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isaaidthat" alt="isaaidthat" /></a> </p>
+### Informatics Management Student · Aspiring Developer
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+*learning web development, exploring new technologies,*
+*and turning little ideas into projects.*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/@saavior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@saavior" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@jouuniverse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@jouuniverse" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+[ instagram ](https://instagram.com/@saavior_) · [ youtube ](https://www.youtube.com/c/@jouuniverse)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaaidthat&show_icons=true&locale=en&layout=compact" alt="isaaidthat" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaaidthat&show_icons=true&locale=en" alt="isaaidthat" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaaidthat&" alt="isaaidthat" /></p>
+### about me
+
+```text
+🎓  D3 Informatics Management student
+💻  interested in web development & software development
+🌱  currently learning Laravel, REST API & Docker
+🎨  enjoy turning ideas into simple, functional interfaces
+📍  Indonesia
+```
+
+### currently learning
+
+`Laravel` · `REST API` · `Flutter` · `Docker` · `Git`
+
+### tech stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=php,js,dart,html,css" />
+
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=laravel,flutter,bootstrap,tailwind,docker,git,github" />
+
+**Database & Design**
+
+<img src="https://skillicons.dev/icons?i=mysql,figma" />
+
+---
+
+### featured projects
+
+| project                             | description                                                      |
+| ----------------------------------- | ---------------------------------------------------------------- |
+| ☕ **Coffee UMKM Website**           | Customer ordering & owner management system                      |
+| 🍜 **Restaurant Management System** | Web-based ordering and management application                    |
+| 🔎 **Mystery / CTF Learning Game**  | Exploring web development through an interactive mystery concept |
+
+---
+
+### github stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=isaaidthat&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaaidthat&layout=compact&hide_border=true" height="165"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+*still learning, still building, still figuring things out.*
+
+<img src="https://komarev.com/ghpvc/?username=isaaidthat&label=profile%20views&color=grey&style=flat" />
+
+</div>
